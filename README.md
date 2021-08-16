@@ -1,0 +1,1 @@
+# spring-guide-resttemplate-example
